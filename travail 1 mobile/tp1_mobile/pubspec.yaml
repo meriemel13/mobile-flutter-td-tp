@@ -1,0 +1,8 @@
+name: api_client
+description: Client Dart pour API REST de gestion des produits et commandes
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  http: ^0.13.5
